@@ -7,7 +7,7 @@ See: [http://golo-lang.org/documentation/next/index.html#_adapters](http://golo-
 
 ##HowTo
 
-... wip (write some samples with external jars)
+- wip (write some samples with external jars)
 
 ##Generate documentation
 
