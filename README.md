@@ -8,6 +8,7 @@ See: [http://golo-lang.org/documentation/next/index.html#_adapters](http://golo-
 ##HowTo
 
 - wip (write some samples with external jars)
+- add more documentation
 
 ##Generate documentation
 
