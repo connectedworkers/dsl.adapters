@@ -12,7 +12,8 @@ See: [http://golo-lang.org/documentation/next/index.html#_adapters](http://golo-
 
 ##Generate documentation
 
-golo doc --output documentation  *.golo
+	golo doc --output documentation  *.golo
+	golo doc --format markdown --output documentation  *.golo
 
 ##Backlog
 
