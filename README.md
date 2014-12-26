@@ -11,7 +11,7 @@ See: [http://golo-lang.org/documentation/next/index.html#_adapters](http://golo-
 
 ##Generate documentation
 
-golo doc --output documentation  imports/*.golo
+golo doc --output documentation  *.golo
 
 ##Backlog
 
